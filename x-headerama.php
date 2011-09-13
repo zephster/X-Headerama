@@ -40,7 +40,7 @@ function futurama()
         "It's just like the story of the grasshopper and the octopus. All year long, the grasshopper kept burying acorns for winter, while the octopus mooched off his girlfriend and watched TV. But then the winter came, and the grasshopper died, and the octopus ate all his acorns and also he got a racecar. Is any of this getting through to you?",
         "Good 'ol Coney Island College. Go Whitefish!",
         "Now that's what I call a thousand years of progress: a Bavarian Cream dog that's self-microwaving!",
-        "I'm doing my job�there's Amy. I spend a few hours selecting a candy from the machine�there's Amy. I wake up the morning after sleeping with Amy�there's Amy!",
+        "I'm doing my job - there's Amy. I spend a few hours selecting a candy from the machine - there's Amy. I wake up the morning after sleeping with Amy - there's Amy!",
         "I always thought it was real like pro wrestling but it's fixed like boxing.",
         "I'm experienced with foraging. I used to find edible mushrooms on my bath mat!",
         "Poor Bender, you're seeing things. You've been drinking too much. Or too little. I forget how it works with you. Anyway, you haven't drunk exactly the right amount.",
