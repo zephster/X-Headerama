@@ -13,7 +13,7 @@ function futurama()
         "Oh. Your. God.",
         "My life, and by extension everyone else's is meaningless.",
         "I'm Bender, baby, please insert liquor!",
-        "They're not very heavy, but you don't hear me not complaning.",
+        "They're not very heavy, but you don't hear me not complaining.",
         "Everybody's a jerk. You, me, this jerk.",
         "I hate the people that love me and they hate me.",
         "Do I preach to you while you're lying stoned in the gutter? No.",
